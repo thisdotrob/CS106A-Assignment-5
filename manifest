@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Yahtzee
+Class-Path: acm.jar yahtzeelib.jar yahtzee.jar
+
